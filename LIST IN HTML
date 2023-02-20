@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>List </title>
+</head>
+<body style="font-size: 200%;">
+     Ordered List 
+    <ol style="color: red;" type="A" >
+        <li>Motihari College of Engineering</li>
+        <li> Bakhtiyarpur College of Engineering </li>
+        <li> Gaya college of Engineering </li>
+    </ol>
+    Unordered List 
+    <ul style="color: green;" type="square">
+     <li> Motihari college  of Engineering </li>
+     <li> Gaya College of Engineering  </li>
+     <li> Sitamarhi institute of technology </li>
+     <li> Bakhtiyarpur College of Engineering
+           <ul>
+            <li> It's Offered no. of more Placements among the all Bihar Engineering college </li>
+            <li>Mechanical branches sector offered more Placements Among the all branches </li>
+           </ul>
+     </li>
+    </ul>
+    Definition List 
+    <dl style="color: crimson">
+        <dt> Motihari College oF Engineering</dt>  
+        <dd style="color: blue;">Motihari College of Engineering is one of the best Engineering College in the bihar & it provides all facilities to us. </dd>     
+    </dl>
+</body>
+</html>
